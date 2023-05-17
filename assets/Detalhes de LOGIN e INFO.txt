@@ -1,0 +1,14 @@
+**HELCTEC, CO.**
+
+**Database Name: sistema_rh**
+
+**Desenvolvido por Helcio Nicolau**
+
+**Recommended PHP Version 5.6 or Newer(7.4)**
+**Versão do PHP recomendado 5.6 || 7.4 ou mais recente
+
+
+**Detalhes de Login do Admin** 
+
+Email   : admin@gmail.com
+Password: admin
