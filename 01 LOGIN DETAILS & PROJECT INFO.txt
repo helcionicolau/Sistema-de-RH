@@ -1,11 +1,14 @@
-**Log on to codeastro.com for more projects!**
+**HELCTEC, CO.**
 
-**Database Name: hrsystemci**
+**Database Name: sistema_rh**
 
-**Developed by Whoami**
+**Desenvolvido por Helcio Nicolau**
 
 **Recommended PHP Version 5.6 or Newer(7.4)**
+**Versão do PHP recomendado 5.6 || 7.4 ou mais recente
 
 
-**Admin Login Details** 
+**Detalhes de Login do Admin** 
 
+Email   : admin@gmail.com
+Password: admin
